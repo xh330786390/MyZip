@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyZip", "MyZip\MyZip.csproj", "{4F900314-F116-404B-A543-B47666C17CCA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyZip.Tests", "MyZip.Tests\MyZip.Tests.csproj", "{9F993858-1EE3-4F2D-B21F-141E18652C89}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4F900314-F116-404B-A543-B47666C17CCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F900314-F116-404B-A543-B47666C17CCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F900314-F116-404B-A543-B47666C17CCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F900314-F116-404B-A543-B47666C17CCA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F993858-1EE3-4F2D-B21F-141E18652C89}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F993858-1EE3-4F2D-B21F-141E18652C89}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F993858-1EE3-4F2D-B21F-141E18652C89}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F993858-1EE3-4F2D-B21F-141E18652C89}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
